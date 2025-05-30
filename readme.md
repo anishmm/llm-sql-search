@@ -66,8 +66,5 @@ This application allows users to input natural language questions about a databa
 
 ## Notes
 - Ensure the `.env` file contains a valid Grok API key.
-- The app assumes the `Chinook.db` database has the necessary schema for the provided sample questions.
-- For API pricing or details, visit [xAI API](https://x.ai/api).
-- Ensure the `screenshot.png` image is correctly placed in the `images/` directory (or adjust the path in the README if stored elsewhere).
 
  
